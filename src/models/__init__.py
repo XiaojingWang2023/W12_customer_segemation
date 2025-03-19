@@ -1,0 +1,1 @@
+from .train_model import elbow_method,train_kmodel
