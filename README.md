@@ -2,7 +2,7 @@
 
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
-[Visit the app here](https://loan-application-app.streamlit.app/)
+[Visit the app here]([https://w12customersegemation.streamlit.app//])
 
 password - streamlit
 
